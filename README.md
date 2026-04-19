@@ -1,4 +1,4 @@
-# 💳 Customer Segmentation & Retention Strategy (FinTech Project)
+# 💳 Customer Segmentation & Retention Strategy 
 
 ## 📌 Overview
 
