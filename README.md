@@ -54,8 +54,6 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 * Python (Pandas, Scikit-learn)
 * Plotly, Dash
 
----
-
 ## ▶️ How to Run
 
 ```bash
@@ -64,8 +62,6 @@ python main.py
 cd dashboard
 python app.py
 ```
-
----
 
 ## 👤 Author
 
