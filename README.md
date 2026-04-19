@@ -10,14 +10,11 @@ This project builds a full customer analytics system for a digital banking platf
 * Customer Lifetime Value (CLV)
 * Retention strategy
 
----
 
 ## 📊 Dataset
 
 * UCI Online Retail Dataset
 https://archive.ics.uci.edu/dataset/352/online+retail
-
----
 
 ## 🚀 Features
 
@@ -39,23 +36,18 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 * Interactive visualization using Dash & Plotly
 
----
-
 ## 📈 Key Insights
 
 * High-value customers with high churn risk identified
 * Behavioral patterns strongly correlate with churn
 * RFM segmentation effectively separates customer groups
 
----
 
 ## 🎯 Business Impact
 
 * Targeted retention campaigns
 * Optimized marketing spend
 * Improved customer experience
-
----
 
 ## 🛠️ Tech Stack
 
